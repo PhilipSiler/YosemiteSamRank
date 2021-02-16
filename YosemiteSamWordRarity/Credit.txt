@@ -1,0 +1,7 @@
+SamRank uses some files downloaded from the internet, and the author wishes to thank their creators.
+
+- Olof Mogren's list of stopwords, from github: https://github.com/olofmogren/multsum/blob/master/python/english_stopwords.txt
+
+- Rachel Tatman's English word frequency dataset, from kaggle: https://www.kaggle.com/rtatman/english-word-frequency
+
+- The website "yosemitesamquotes.com", and their list of Sam's sayings: http://yosemitesamquotes.com/yosemite-sam-sayings/
